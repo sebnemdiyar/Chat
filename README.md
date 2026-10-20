@@ -2,11 +2,11 @@
 Bu proje, kullanıcıların gerçek zamanlı mesajlaşabildiği, favori emojilerini kolayca ekleyebildiği ve güvenli bir şekilde iletişim kurabildiği modern ve interaktif bir sohbet web uygulamasıdır.
 
 ## Özellikler
-Firebase altyapısı ile güvenli kullanıcı kimlik doğrulama (giriş yapma ve kayıt olma)
-Gerçek zamanlı mesajlaşma akışı ve anlık veri senkronizasyonu
-Emoji seçici entegrasyonu ile mesajlara renk katma
-Sayfalar arası akıcı ve hızlı geçiş yapısı
-Responsive, modern ve kullanıcı dostu arayüz tasarımı
+* Firebase altyapısı ile güvenli kullanıcı kimlik doğrulama (giriş yapma ve kayıt olma)
+* Gerçek zamanlı mesajlaşma akışı ve anlık veri senkronizasyonu
+* Emoji seçici entegrasyonu ile mesajlara renk katma
+* Sayfalar arası akıcı ve hızlı geçiş yapısı
+* Responsive, modern ve kullanıcı dostu arayüz tasarımı
 
 ## Kullanılan Teknolojiler
 * React Toastify
